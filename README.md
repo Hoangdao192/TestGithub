@@ -1,3 +1,3 @@
 # TestGithub
 
-1. Test git upull
+1. Test git pull
